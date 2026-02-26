@@ -1,1 +1,1 @@
-worker: python3 -m AliceMusic
+worker: python3 -m AnonXMusic
